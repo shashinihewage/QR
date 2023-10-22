@@ -52,6 +52,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-![qr](https://github.com/shashinihewage/QR/assets/87617294/200d455b-9196-4629-8870-5d80539adc25)
+![qr](qr.png)
 
 Remember to adjust the URLs and paths according to your actual GitHub repository and file paths.
