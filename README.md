@@ -45,12 +45,8 @@ python path_to_qrcode_generator_script.py
 - To change the border thickness of the QR code, modify the `border` parameter.
 - To change the colors of the QR code, adjust the `fill` and `back_color` parameters in the `feature.make_image` method.
 
-## Contributing
+## Output
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
----
 
 ![qr](qr.png)
 
